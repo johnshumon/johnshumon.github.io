@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>https://johnshumon.github.io/authors/</link>
+      <atom:link href="https://johnshumon.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://johnshumon.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://johnshumon.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://johnshumon.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://johnshumon.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Born and raised up in a beautiful country named Bangladesh. Done my bachelors in Computer Science and Engineering, and Masters in Information Technology. A Software Engineer by profession, expertise lies mainly in the back-end and cloud environment with technologies such as nodejs, mongoDB, docker, kubernetes.&lt;/p&gt;
+
+&lt;p&gt;Keen to learn and explore new technologies. I would like to explore more in these areas: Docker, Microservice, Kubernetes, Cloud service, Machine Learning, Cryptography.&lt;/p&gt;
+
+&lt;p&gt;Physically an average built with height of approximately 1.81 meters (71 inch). Love sports. Big fan of Cricket. Weather allows to play cricket here in Finland only in the summer time though. Usually play Badminton (finnish name: sulkapallo) in spare time. Support Manchester United as a football club. Like to play Bowling and billiards as well.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
